@@ -1,1 +1,1 @@
-worker: node sneyra.js
+worker: node node.js
